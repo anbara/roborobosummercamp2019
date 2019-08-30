@@ -1,5 +1,5 @@
 // LEDを接続するpinを2番ピンに指定
-const int ledPin 2 
+const int ledPin = 2;
 
 // 最初の1回だけ実行される関数
 // the setup function runs once when you press reset or power the board
