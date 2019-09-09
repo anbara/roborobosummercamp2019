@@ -1,5 +1,5 @@
 const int sensor = 0; // センサを接続するpinを番ピンに指定
-
+int val; //センサ用変数
 
 void setup() {
 Serial.begin(9600); //シリアル通信のデータ転送レートを9600bpsで指定
