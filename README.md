@@ -16,5 +16,5 @@
 1. ロボットを制御しよう！  
 [Sample code](/sample6-ControlRobot/sample6-ControlRobot.ino)
 
-1. 光センサを使ってみよう！  
+1. 超音波センサを使ってみよう！  
 [Sample code](/sample7-UltrasonicSensor/sample7-UltrasonicSensor.ino)
