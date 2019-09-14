@@ -18,3 +18,5 @@
 
 1. 超音波センサを使ってみよう！  
 [Sample code](/sample7-UltrasonicSensor/sample7-UltrasonicSensor.ino)
+
+![flier]](https://github.com/anbara/roborobosummercamp2019/tree/master/flier.png/) "flier")
