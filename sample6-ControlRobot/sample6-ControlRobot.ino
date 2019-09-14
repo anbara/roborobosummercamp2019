@@ -39,6 +39,6 @@ void loop() {
     analogWrite(PWMBPin, 0); // PWM is 0 to 255 (8bit)
   }
 
-  Serial.print(val); //読み取り値を表示
+  Serial.println(val); //読み取り値を表示
   delay(100); //100m秒（0.1秒)ごとに表示させるための遅延
 }
